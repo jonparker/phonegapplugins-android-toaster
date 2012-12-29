@@ -2,6 +2,9 @@
 
 This plugin allows you to display a toaster notification in the main screen of your Cordova application.
 
+## Screenshot ##
+Here is a screenshot of it working on Android 4.0.4:  ![Android-Toaster-Plugin-Screenshot](https://f.cloud.github.com/assets/152131/15542/f48a70f0-4785-11e2-8818-18d957d1201a.png)
+
 ## Adding the Plugin to your project ##
 
 Using this plugin requires [Android Cordova](http://github.com/apache/incubator-cordova-android).
